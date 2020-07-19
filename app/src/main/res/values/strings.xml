@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Film It</string>
+
+    <string name="app_id">zjazkLKZrr7yyV2kBPdrnPsiiGfHpfjyfq4xZCGt</string>
+    <string name="client_key">6xKIURQxL8WKdbvM0RNZl6fD8XoDuFzmfebjswTN</string>
+    <string name="parse_API_address">https://parseapi.back4app.com/</string>
+</resources>
